@@ -1,0 +1,13 @@
+name = "practices"
+uuid = "554e7a8a-ee07-4981-8903-e2c186f0ec1c"
+authors = ["Yueh-Hua Tu <a504082002@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
