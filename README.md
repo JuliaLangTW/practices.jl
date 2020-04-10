@@ -6,6 +6,29 @@
 
 ## 初階
 
+### 簡單資料結構
+
+
+### 排序演算法
+
+[氣泡排序法](bubble_sort/)
+
+### 搜尋演算法
+
+
 ## 中階
 
+
+### 數值演算法
+
+
 ## 進階
+
+### interface
+
+
+
+### patterns
+
+
+### parser and interpreter
