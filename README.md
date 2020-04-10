@@ -32,3 +32,10 @@
 
 
 ### parser and interpreter
+
+## 提供練習題
+
+1. 使用 `Pkg.generate("MatrixMultiply")` 或 `pkg>generate MatrixMultiply` 產生練習題專案
+2. 切換到專案底下，加入 Test 套件
+3. 撰寫練習題專案 README.md
+4. 撰寫練習題專案 test/runtests.jl 測試資料
