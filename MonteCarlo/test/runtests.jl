@@ -1,9 +1,7 @@
 using MonteCarlo
 using Test
 
-tests = [
-    "foo",
-]
+tests = []
 
 @testset "MonteCarlo.jl" begin
     for t in tests
