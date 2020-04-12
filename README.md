@@ -45,3 +45,10 @@
     * Example/.gitignore
 3. 在 Example/README.md 下，撰寫題目及測試資料
 4. 提交到 git 上並且 pull request
+
+## 貢獻者名單
+
+感謝以下貢獻者貢獻練習題：
+
+* [Yueh-Hua Tu (杜岳華)](https://github.com/yuehhua)
+* [Jing-Yu Ning（甯敬宇）](https://github.com/foldfelis)
