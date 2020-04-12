@@ -8,63 +8,25 @@
 
 ## 初階
 
-
-謝爾賓斯基三角形
-流程控制
-讀取 STDIN
-矩陣乘法
-
 ### 簡單資料結構
-
-陣列使用
-字典使用
-集合使用
 
 ### 排序演算法
 
 [氣泡排序法](BubbleSort/)
-選擇排序法
-快速排序法
-合併排序法
 
 ### 搜尋演算法
 
-pi的逼近算法
-二分逼近法
-線性搜尋法
-binary search
-
 ## 中階
 
-type def
-multiple dispatch
-parametric
-tail recurrence
-Mandelbrot set
-數學式前序轉後序
-
 ### 數值演算法
-
-Metropolis-Hasting algorithm
-Gradient descent
-線性迴歸
 
 ## 進階
 
 ### interface
 
-iterable 實作 fibonacci series
-
-
 ### patterns
 
-factory pattern
-MVC pattern
-
 ### parser and interpreter
-
-json parser
-metaprogramming
 
 ## 提供練習題
 
