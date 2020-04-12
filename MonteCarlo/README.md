@@ -8,7 +8,7 @@
 
 在 Julia ，我們可以使用 `rand` 函數來產生亂數。 [Random Number](https://docs.julialang.org/en/v1/stdlib/Random/)
 
-## 利用蒙地卡羅方法求 $\pi$
+## 利用蒙地卡羅方法求 Pi
 
 根據亂數函數，我們相信在 `[0, 1)` 區間內，每個數字出現的機率相同。我們呼叫兩次 `rand()` 函數，並將之分別指定於 `xs` 跟 `ys` 來作為 100 個點的座標。
 
@@ -29,11 +29,9 @@ if sqrt(x^2 + y^2) < 1:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/84/Pi_30K.gif)
 
-# 問題
+## 問題
 
-1. 使用利用蒙地卡羅方法求 $\pi$
+1. 使用利用蒙地卡羅方法求 Pi
 2. 使用利用蒙地卡羅方法求下列定積分 [hint](https://www.wikiwand.com/en/Riemann_sum)
-
-    * $$\int_0^1 x(\tan^{-1} (x))^2 \, dx$$ 
-    * $$\int_0^{2\pi} \frac{1}{1+\tan^4(x)}$$
-
+    * <img src="https://i.imgur.com/yPQ28xu.png" height="60">
+    * <img src="https://i.imgur.com/HHBM4lI.png" height="60">
