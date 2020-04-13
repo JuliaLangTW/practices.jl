@@ -1,6 +1,12 @@
 using ChaosGame
 using Test
 
+tests = [
+]
+
 @testset "ChaosGame.jl" begin
-    # Write your own tests here.
+    for t in tests
+        include("$(t).jl")
+    end
 end
+
