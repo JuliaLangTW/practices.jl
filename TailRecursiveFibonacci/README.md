@@ -2,7 +2,7 @@
 
 [費氏數列](https://www.wikiwand.com/zh-hant/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97)，又稱黃金分割數列，是自然界中非常常見的數列。它是由以下遞迴式所定義：
 
-![](https://i.imgur.com/7ggYrnU.png)
+<img src="https://i.imgur.com/7ggYrnU.png" height="100">
 
 產生以下數列：
 
