@@ -8,6 +8,8 @@
 
 ## 初階
 
+[費氏數列](Fibonacci/)
+
 ### 數值演算法
 
 [蒙地卡羅方法](MonteCarlo/)
@@ -21,6 +23,8 @@
 ### 搜尋演算法
 
 ## 中階
+
+[尾遞迴費氏數列](TailRecursiveFibonacci/)
 
 ### 數值演算法
 
