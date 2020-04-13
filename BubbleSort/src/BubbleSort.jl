@@ -1,7 +1,10 @@
 module BubbleSort
 
-export bubble_sort!
 
-bubble_sort!(x::Vector) = []
+src = []
+
+for s = src
+    include("$(s).jl")
+end
 
 end # module
