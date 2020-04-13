@@ -10,6 +10,8 @@
 
 [費氏數列](Fibonacci/)
 
+[Chaos Game](ChaosGame/)
+
 ### 數值演算法
 
 [蒙地卡羅方法](MonteCarlo/)
