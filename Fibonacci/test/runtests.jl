@@ -1,7 +1,7 @@
 using Fibonacci
 using Test
 
-tests = []
+tests = ["Nuclear718_fibon"]
 
 @testset "Fibonacci.jl" begin
     for t in tests
