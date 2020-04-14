@@ -1,6 +1,6 @@
 module Fibonacci
 
-src = []
+src = ["Nuclear718_fibon"]
 
 for s = src
     include("$(s).jl")
