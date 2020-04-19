@@ -15,10 +15,10 @@
 ## 測試
 
 ```julia
-@test fibonacci(0) .== 0
-@test fibonacci(1) .== 1
-@test fibonacci(2) .== 1
-@test fibonacci(4) .== 3
+@test fibonacci(0) == 0
+@test fibonacci(1) == 1
+@test fibonacci(2) == 1
+@test fibonacci(4) == 3
 ```
 
 ### 測試資料
