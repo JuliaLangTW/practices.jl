@@ -1,7 +1,10 @@
 using Fibonacci
 using Test
 
-tests = []
+tests = [
+    "benitor",
+]
+
 
 @testset "Fibonacci.jl" begin
     for t in tests
