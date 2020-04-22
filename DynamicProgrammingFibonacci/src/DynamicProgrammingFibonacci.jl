@@ -1,10 +1,5 @@
 module DynamicProgrammingFibonacci
 
-export
-    fibonacci
-
-function fibonacci end
-
 src = [
 ]
 
