@@ -12,6 +12,12 @@
 
 請根據遞迴撰寫產生費氏數列的程式，輸入為數列的序數，輸出為費氏數列的數值。
 
+## [Dynamic Programming (DP)](https://en.wikipedia.org/wiki/Dynamic_programming)
+
+通過將問題分解成多個子問題來求解複雜的問題，通常子問題會有重複性所以會搭配一些 Cache 技巧來避免重複計算子問題。
+
+以 Fibonacci Sequence 來說 $ f(n) = f(n-1) + f(n-2) $ 當中的 $ f(n-1) $ 就是一個子問題，我們可以通過 Cache 記住 $ f(i) $ 來避免重複計算
+
 ## 測試
 
 ```julia
