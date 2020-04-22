@@ -2,6 +2,7 @@ using DynamicProgrammingFibonacci
 using Test
 
 tests = [
+    "dp",
 ]
 
 

@@ -1,6 +1,7 @@
 module DynamicProgrammingFibonacci
 
 src = [
+    "dp",
 ]
 
 for s = src
