@@ -1,7 +1,9 @@
 using TailRecursiveFibonacci
 using Test
 
-tests = []
+tests = [
+    "benitor",
+]
 
 @testset "TailRecursiveFibonacci.jl" begin
     for t in tests
