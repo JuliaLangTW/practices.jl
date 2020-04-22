@@ -1,3 +1,5 @@
+using DynamicProgrammingFibonacci.Dp
+
 @test fibonacci(0) == 0
 @test fibonacci(1) == 1
 @test fibonacci(2) == 1

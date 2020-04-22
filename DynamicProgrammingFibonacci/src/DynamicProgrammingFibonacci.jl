@@ -1,8 +1,5 @@
 module DynamicProgrammingFibonacci
 
-export
-    fibonacci
-
 src = [
     "dp",
 ]

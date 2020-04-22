@@ -1,3 +1,7 @@
+module Dp
+
+export fibonacci
+
 struct FibCACHE
   INT_CACHE::Vector{Int}
   BIGINT_CACHE::Vector{BigInt}
@@ -28,4 +32,6 @@ function fibonacci(n)
   global fib_cache
   n == 0 && return 0
   return fib_cache(n)
+end
+
 end
