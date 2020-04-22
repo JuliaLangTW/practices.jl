@@ -27,6 +27,7 @@
 ## 中階
 
 [尾遞迴費氏數列](TailRecursiveFibonacci/)
+[動態規劃費氏數列](DynamicProgrammingFibonacci/)
 
 ### 數值演算法
 
@@ -58,3 +59,4 @@
 
 * [Yueh-Hua Tu (杜岳華)](https://github.com/yuehhua)
 * [Jing-Yu Ning（甯敬宇）](https://github.com/foldfelis)
+* [Ching-Wen Cheng（鄭景文）](https://github.com/chengchingwen)

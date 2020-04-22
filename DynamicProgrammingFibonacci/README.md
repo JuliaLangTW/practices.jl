@@ -1,4 +1,4 @@
-# 費氏數列
+# 動態規劃費氏數列
 
 [費氏數列](https://www.wikiwand.com/zh-hant/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97)，又稱黃金分割數列，是自然界中非常常見的數列。它是由以下遞迴式所定義：
 
@@ -12,7 +12,7 @@
 
 請根據遞迴撰寫產生費氏數列的程式，輸入為數列的序數，輸出為費氏數列的數值。
 
-## [Dynamic Programming (DP)](https://en.wikipedia.org/wiki/Dynamic_programming)
+## [動態規劃（Dynamic Programming，DP）](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 通過將問題分解成多個子問題來求解複雜的問題，通常子問題會有重複性所以會搭配一些 Cache 技巧來避免重複計算子問題。
 
