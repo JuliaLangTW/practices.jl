@@ -1,7 +1,9 @@
 using BubbleSort
 using Test
 
-tests = []
+tests = [
+    "benitor",
+]
 
 @testset "BubbleSort" begin
     for t in tests
