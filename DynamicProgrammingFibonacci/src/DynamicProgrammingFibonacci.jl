@@ -4,7 +4,6 @@ export
     fibonacci
 
 src = [
-    "dp",
 ]
 
 for s = src
