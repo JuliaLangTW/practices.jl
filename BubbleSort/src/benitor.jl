@@ -2,7 +2,7 @@ module Benitor
 
 function bubbleSort!(a)
     n = length(a)
-    global n
+
     for  i = 1:n
         for j = 1:n-1
             if a[j] === missing
