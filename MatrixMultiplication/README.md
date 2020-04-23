@@ -2,7 +2,7 @@
 
 矩陣乘法是在數值計算中相當基本的運算方式，矩陣乘法的效率常常也決定了數值軟體的效能。矩陣乘法中的每個元素計算依循以下式子：
 
-[Imgur](https://i.imgur.com/0g2zDzN.png)
+<img src="https://i.imgur.com/0g2zDzN.png" width="40%">
 
 ## 測試
 
