@@ -24,6 +24,7 @@
 ### 搜尋演算法
 
 * [線性搜尋法](LinearSearch/)
+* [二分搜尋法](BinarySearch/)
 
 ## 中階
 
