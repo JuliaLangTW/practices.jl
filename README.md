@@ -8,26 +8,27 @@
 
 ## 初階
 
-[費氏數列](Fibonacci/)
-
-[Chaos Game](ChaosGame/)
+* [費氏數列](Fibonacci/)
+* [Chaos Game](ChaosGame/)
 
 ### 數值演算法
 
-[蒙地卡羅方法](MonteCarlo/)
+* [蒙地卡羅方法](MonteCarlo/)
 
 ### 簡單資料結構
 
 ### 排序演算法
 
-[氣泡排序法](BubbleSort/)
+* [氣泡排序法](BubbleSort/)
 
 ### 搜尋演算法
 
+* [線性搜尋法](LinearSearch/)
+
 ## 中階
 
-[尾遞迴費氏數列](TailRecursiveFibonacci/)
-[動態規劃費氏數列](DynamicProgrammingFibonacci/)
+* [尾遞迴費氏數列](TailRecursiveFibonacci/)
+* [動態規劃費氏數列](DynamicProgrammingFibonacci/)
 
 ### 數值演算法
 
