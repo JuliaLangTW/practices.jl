@@ -17,6 +17,8 @@
 
 ### 簡單資料結構
 
+* [矩陣乘法](MatrixMultiplication/)
+
 ### 排序演算法
 
 * [氣泡排序法](BubbleSort/)
